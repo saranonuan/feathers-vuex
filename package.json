@@ -95,7 +95,7 @@
     "feathers-hooks": "^2.1.0",
     "feathers-memory": "^1.2.1",
     "feathers-rest": "^1.8.0",
-    "feathers-socketio": "^1.6.0",
+    "feathers-socketio": "git://github.com/saranonuan/feathers-socketio.git",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^3.5.3",
     "shx": "^0.2.2",
